@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React Project",
+    "description": "Finish the Todo List application",
+    "completed": false,
+    "lastUpdated": "2024-07-30T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Read a Book",
+    "description": "Read 'Clean Code' by Robert C. Martin",
+    "completed": false,
+    "lastUpdated": "2024-07-29T15:30:00Z"
+  }
+]
